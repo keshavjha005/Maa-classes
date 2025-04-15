@@ -1,7 +1,7 @@
 /*
  * Smoothbox
  * http://kthornbloom.com/smoothbox.php
- * Downloaded by Vinit Shahdeo
+ * Downloaded by WEBIIfY
  * MAA CLASSES
  * Copyright 2013, Kevin Thornbloom
  * Free to use and abuse under the MIT license.

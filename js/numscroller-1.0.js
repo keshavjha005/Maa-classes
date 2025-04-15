@@ -2,7 +2,7 @@
 * jQuery scroroller Plugin 1.0
 * MAA CLASSES
 * http://www.tinywall.net/
-* Downloaded by Vinit Shahdeo
+* Downloaded by WEBIIfY
 * Developers: Arun David, Boobalan
 * Copyright (c) 2014 
 */
